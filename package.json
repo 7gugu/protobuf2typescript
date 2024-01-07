@@ -8,21 +8,21 @@
   "owner": "gustudio",
   "keywords": ["protobuf", "protocol buffer", "typescript"],
   "categories": [
-    "Developer Tools"
+    "Developer Tools",
+    "Web",
+    "Data"
   ],
   "license": "MIT",
   "commands": [
     {
       "name": "index",
       "title": "Convert ProtoBuf to dTs",
-      "subtitle": "PB2TS",
       "description": "Translate protobuf to d.ts",
       "mode": "view"
     },
     {
       "name": "clipboard",
       "title": "Convert ProtoBuf to dTs from clipboard",
-      "subtitle": "PB2TS",
       "description": "Translate protobuf to d.ts",
       "mode": "no-view"
     }
