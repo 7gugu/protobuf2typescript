@@ -1,6 +1,6 @@
 # Protobuf2TypeScript
 
-A script which help front-end devloper to convert *.protobuf file into *.d.ts file.
+A Raycast script which help front-end devloper to convert *.protobuf file into *.d.ts file.
 
 ## Installtion Link
 
