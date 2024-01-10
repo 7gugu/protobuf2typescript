@@ -8,9 +8,9 @@ A Raycast script which help front-end devloper to convert *.protobuf file into *
 
 ## Screenshots
 
-![protobuf2typescript-1](https://github.com/raycast/extensions/assets/8674852/2c08d5f3-fbba-4801-ae3c-5a41fe60863e)
-![protobuf2typescript-2](https://github.com/raycast/extensions/assets/8674852/9ba4e4b1-1525-41fd-a786-f2e0cd941819)
-![protobuf2typescript-3](https://github.com/raycast/extensions/assets/8674852/d0fed953-1a92-421e-8715-d710bce74a4c)
+![protobuf2typescript-1](https://github.com/7gugu/protobuf2typescript/assets/8674852/1bbdbb94-6fef-4a92-9a81-c445ff65358e)
+![protobuf2typescript-2](https://github.com/7gugu/protobuf2typescript/assets/8674852/524b5313-c460-4f77-aa9b-fe4671eda62c)
+![protobuf2typescript-3](https://github.com/7gugu/protobuf2typescript/assets/8674852/3f6a56b0-a4fb-46eb-a3ac-2b1a885c4be2)
 
 ## Example
 
