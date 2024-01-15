@@ -4,7 +4,7 @@ A Raycast script which help front-end devloper to convert *.protobuf file into *
 
 ## Installtion Link
 
-[https://www.raycast.com/gustudio/protobuf2typescript](https://www.raycast.com/gustudio/protobuf2typescript)
+[https://www.raycast.com/gustudio/protobuf2typescript](https://www.raycast.com/7gugu/protobuf2typescript)
 
 ## Screenshots
 
